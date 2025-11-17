@@ -1,0 +1,93 @@
+{
+  "hero": {
+    "heading": "Jeder sollte die Möglichkeit haben, in KI und IT einzusteigen",
+    "description": "Wir machen technische Bildung für alle zugänglich und befähigen Lernende mit realen Fähigkeiten in den Bereichen KI, Programmierung und digitale Innovation.",
+    "cta": "Individuelle Beratung",
+    "tag": "Über Kodschul",
+    "badge1": "Praxisorientiert",
+    "badge2": "Expertenteam"
+  },
+  "meta": {
+    "title": "Wir machen IT-Seminare, KI & Digitale Transformation einfach | Kodschul",
+    "description": "Bei Kodschul machen wir IT-Seminare, KI und Digitale Transformation für alle einfach.",
+    "keywords": "IT-Seminare, KI-Training, digitale Transformation, Technik-Workshops, Experten-Training, praxisnahes Lernen",
+    "image": "/assets/images/kodschul-hero2.png"
+  },
+  "mission": {
+    "title": "Unser Auftrag:\nKI und IT für alle",
+    "paragraph1": "Unser Ziel ist es, KI- und IT-Bildung für alle zugänglich zu machen und sicherzustellen, dass jeder, der neugierig und ehrgeizig ist, in die Welt der Technologie einsteigen kann. Wir verpflichten uns, integrative, praxisnahe Lernerfahrungen zu bieten, die den Schülern reale Fähigkeiten in den Bereichen Softwareentwicklung, maschinelles Lernen und digitale Innovation vermitteln.",
+    "paragraph2": "Wir bei KodSchul glauben, dass die Zukunft denjenigen gehört, die sich die Technologie zunutze machen können - und wir sind hier, um diese Zukunft für alle möglich zu machen.",
+    "paragraph3": "Durch die Beseitigung von Bildungsbarrieren ermöglichen wir es den Lernenden, sich selbstbewusst mit Programmierung, künstlicher Intelligenz und neuen Technologien auseinanderzusetzen und ihre beruflichen Ziele zu erreichen."
+  },
+  "team": {
+    "heading": "Unser Team – Ihr Schlüssel zum Erfolg!",
+    "list": [
+      {
+        "name": "Franz Nkemaka",
+        "description": "Experte für IT & KI",
+        "image": "/assets/images/contact-franz.png"
+      },
+      {
+        "name": "Elisa Saleh",
+        "description": "Account Managerin",
+        "image": "/assets/images/team/elisa.png"
+      },
+      {
+        "name": "Lars Gerigk",
+        "description": "Portfolio Manager",
+        "image": "/assets/images/team/lars.png"
+      },
+      {
+        "name": "Nathan Song",
+        "description": "Course Developer",
+        "image": "/assets/images/team/nathan.png"
+      },
+      {
+        "name": "Felix Retter",
+        "description": "Course Developer",
+        "image": "/assets/images/team/felix.png"
+      }
+    ],
+    "trainers": [
+      {
+        "name": "Franz Nkemaka",
+        "description": "Experte für IT & KI <br> 200+ Teilnehmer, 40+ Trainings",
+        "image": "/assets/images/contact-franz.png"
+      },
+      {
+        "name": "Raffael Hühnerschulte",
+        "description": "IT-Trainer, Full Stack Entwickler",
+        "image": "/assets/images/trainers/raffael.jpg"
+      },
+      {
+        "name": "Pascal Hinze",
+        "description": "IT-Trainer, Full Stack Entwickler",
+        "image": "/assets/images/trainers/pascal.jpg"
+      },
+      {
+        "name": "Erik Hölzel",
+        "description": "IT-Trainer, Full Stack Entwickler",
+        "image": "/assets/images/trainers/erik.jpg"
+      }
+    ]
+  },
+  "customized_training": {
+    "title": "Maßgeschneiderte Schulungen",
+    "subtitle": "Individuelle und praxisorientierte Seminare für Unternehmen und Studierende, die zukunftsfähig machen und auf die nächste Stufe bringen.",
+    "cards": {
+      "business": {
+        "title": "Für Unternehmen",
+        "description": "Jedes Unternehmen ist einzigartig. Deshalb bieten wir Schulungen, die auf die Bedürfnisse ihres Unternehmens abgestimmt sind, um maximalen Mehrwert zu erzielen und Ihre Teams mit den neuesten Technologien auszustatten."
+      },
+      "students": {
+        "title": "Für Studenten",
+        "description": "100% Hands-on \"Learn by Doing\"-Begleitung von Experten. Unsere praxisorientierten Schulungen bieten Zertifikate und die Möglichkeit, für Studenten, den Einstieg in die Berufswelt erleichtert.",
+        "button": "Kodschul Students"
+      },
+      "individual": {
+        "title": "Individuelle Schulungen",
+        "description": "Wir evaluieren den aktuellen Stand in einem kurzen Call und entwickeln ein maßgeschneidertes Schulungsangebot, das genau auf Ihre Ziele ausgerichtet ist und das Training perfekt auf Ihre Bedürfnisse zuzuschneiden."
+      }
+    }
+  }
+}

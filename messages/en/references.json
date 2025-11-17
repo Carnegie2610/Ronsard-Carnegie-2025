@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "title": "Our Clients",
+    "subtitle": "Over 1000 Participants Have Completed Our Courses At The Following Major Companies And Institutions",
+    "button": "Individual Consulting"
+  },
+  "companies_section": {
+    "title": "Over 250 Companies, Authorities, Universities and Educational Institutions rely on Kodschul.",
+    "subtitle_companies": "Companies: from Industry to Banks",
+    "description_companies": "We work with companies from various industries to make their teams more future-ready - with modern AI seminars & IT training and customized solutions.",
+    "subtitle_authorities": "Authorities & Institutions Worldwide",
+    "description_authorities": "We work with public institutions and organizations to build digital competence, teach modern technologies, and promote sustainable continuing education."
+  },
+
+  "meta": {
+    "title": "Our Clients & References | Kodschul",
+    "description": "Discover our success stories and references. Learn how we help companies and individuals achieve their IT goals.",
+    "keywords": "customer references, IT seminars, digital transformation, Kodschul, success stories, customer feedback",
+    "image": "/assets/images/kodschul-references.png"
+  },
+  "trusted-by": {
+    "title": "Trusted by world leading companies & top institutions!"
+  },
+  "client_showcase": {
+    "title": "Together with the top 20 training providers in the DACH region, we create hands-on training at the highest level."
+  },
+  "ai_call_to_action": {
+    "title": "AI & IT are changing the world",
+    "subtitle": "Be at the forefront! Gather expertise and practical experience today to secure your digital future!",
+    "cta_button": "Inquire now"
+  },
+  "metrics": {
+    "title": "Results & Impact!",
+    "subtitle": "Our training creates real value for professionals, students, and organizations alike.",
+    "description": "Through modern learning formats and individual support, we achieve long-lasting learning success. Our practical approach and expert trainers ensure that participants can immediately apply their new skills in real-world scenarios.",
+    "metric_1": {
+      "value": "1,500+",
+      "label": "Participants from companies, authorities & universities trained"
+    },
+    "metric_2": {
+      "value": "100+",
+      "label": "Corporate clients - from mid-sized companies to public administration"
+    },
+    "metric_3": {
+      "value": "250+",
+      "label": "Training days per year - online, on-site & hybrid"
+    },
+    "metric_4": {
+      "value": "97%",
+      "label": "Recommendation rate according to participant feedback"
+    },
+    "metric_5": {
+      "value": "77%",
+      "label": "of students noticeably improve their studies or career entry"
+    }
+  },
+  "success-stories": {
+    "tag": "TOGETHER TO THE GOAL!",
+    "title": "Success Story",
+    "view-all": "View all available seminars",
+    "read-more": "Learn more",
+    "stories": {
+      "fulda": {
+        "title": "Hochschule Fulda",
+        "description": "Hochschule Fulda is a vocational university in Fulda, Germany. It offers a wide range of degree programs that teach science and technology.",
+        "date": "November 12, 2024"
+      },
+      "emag": {
+        "title": "EMAG GmbH & Co. KG",
+        "description": "EMAG is a leading manufacturer of machine tools for metal processing. The company focuses on innovative technologies and digital solutions for production.",
+        "date": "October 15, 2024"
+      },
+      "lvm": {
+        "title": "LVM Insurance Group",
+        "description": "LVM Insurance is a prominent insurance group in Germany, known for its innovation and efficiency efforts. They manage an extensive network of over 2000 application instances in their operations.",
+        "date": "September 28, 2024"
+      }
+    }
+  }
+}

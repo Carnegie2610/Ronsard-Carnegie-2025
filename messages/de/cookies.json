@@ -1,0 +1,64 @@
+{
+  "title": "Cookie-Einstellungen",
+  "summary": "Wir verwenden Cookies, um Ihre Erfahrung zu verbessern und den Website-Traffic zu analysieren.",
+  "cookiePolicy": "Cookie-Richtlinie",
+  "description": "Diese Website verwendet Cookies, um Ihnen die bestmögliche Erfahrung zu bieten. Durch Klicken auf 'Akzeptieren' stimmen Sie der Verwendung aller Cookies zu.",
+  "learnMore": "Mehr erfahren",
+  "accept": "Alle akzeptieren",
+  "decline": "Nicht essentielle ablehnen",
+  "showSettings": "Anpassen",
+  "hideSettings": "Einstellungen ausblenden",
+  "necessary": {
+    "title": "Notwendige Cookies",
+    "description": "Diese Cookies sind für das ordnungsgemäße Funktionieren der Website erforderlich."
+  },
+  "analytics": {
+    "title": "Analyse-Cookies",
+    "description": "Helfen uns zu verstehen, wie Besucher mit unserer Website interagieren."
+  },
+  "cookieManager": {
+    "title": "Cookie-Einstellungen",
+    "description": "Verwalten Sie Ihre Cookie-Präferenzen",
+    "button": "Cookie-Einstellungen"
+  },
+  "cookiePage": {
+    "title": "Cookie-Richtlinie",
+    "subtitle": "Wie wir Cookies verwenden",
+    "intro": "Diese Cookie-Richtlinie erläutert, wie Kodschul Cookies und ähnliche Technologien verwendet, um unsere Dienste bereitzustellen, anzupassen, zu bewerten, zu verbessern, zu fördern und zu schützen.",
+    "whatAreCookies": {
+      "title": "Was sind Cookies?",
+      "description": "Cookies sind kleine Textdateien, die verwendet werden, um Informationen in Webbrowsern zu speichern. Cookies werden verwendet, um Identifikatoren und andere Informationen auf Computern, Telefonen und anderen Geräten zu speichern und zu empfangen. Andere Technologien, einschließlich Daten, die wir in Ihrem Webbrowser oder Gerät speichern, Identifikatoren, die mit Ihrem Gerät verknüpft sind, und andere Software, werden für ähnliche Zwecke verwendet. In dieser Cookie-Richtlinie bezeichnen wir all diese Technologien als 'Cookies'."
+    },
+    "whyWeUse": {
+      "title": "Warum wir Cookies verwenden",
+      "description": "Wir verwenden Cookies, um zu verstehen, wie Sie mit unserer Website interagieren, um Ihre Einstellungen zu speichern und um Ihre Gesamterfahrung zu verbessern. Wir verwenden Cookies auch, um Ihr Konto zu schützen und unsere Dienste zu sichern."
+    },
+    "typeOfCookies": {
+      "title": "Arten von Cookies, die wir verwenden",
+      "necessary": {
+        "title": "Notwendige Cookies",
+        "description": "Diese Cookies sind für das Surfen auf der Website und die Nutzung ihrer Funktionen unerlässlich, wie z.B. den Zugriff auf sichere Bereiche der Website. Diese Cookies sammeln keine Informationen über Sie, die für Marketingzwecke verwendet werden könnten oder die sich merken, wo Sie im Internet waren."
+      },
+      "functional": {
+        "title": "Funktionale Cookies",
+        "description": "Diese Cookies ermöglichen es der Website, sich an Ihre getroffenen Entscheidungen zu erinnern und erweiterte, persönlichere Funktionen anzubieten. Sie können auch verwendet werden, um Dienste bereitzustellen, nach denen Sie gefragt haben."
+      },
+      "analytics": {
+        "title": "Analyse- und Leistungs-Cookies",
+        "description": "Diese Cookies sammeln Informationen darüber, wie Sie eine Website nutzen, z.B. welche Seiten Sie besucht und auf welche Links Sie geklickt haben. Keine dieser Informationen kann zur Identifizierung Ihrer Person verwendet werden. Alles wird aggregiert und somit anonymisiert."
+      }
+    },
+    "howToManage": {
+      "title": "Wie Sie Cookies verwalten können",
+      "description": "Die meisten Webbrowser ermöglichen eine gewisse Kontrolle über die meisten Cookies durch die Browsereinstellungen. Um mehr über Cookies zu erfahren, einschließlich wie Sie sehen können, welche Cookies gesetzt wurden, besuchen Sie www.aboutcookies.org oder www.allaboutcookies.org.",
+      "browserInstructions": "Erfahren Sie, wie Sie Cookies in beliebten Browsern verwalten können:",
+      "browsers": {
+        "chrome": "Google Chrome",
+        "edge": "Microsoft Edge",
+        "firefox": "Firefox",
+        "safari": "Safari",
+        "opera": "Opera"
+      }
+    }
+  }
+}

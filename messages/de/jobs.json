@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "title": "Arbeitsplatze",
+    "trainer_title": "Werde jetzt Kodschul Trainer",
+    "trainer_description": "Wir sind stets auf der Suche nach erfahrenen Trainern aus der Praxis, die unser Netzwerk stärken und ihr Wissen in unsere praxisnahen IT-Seminare einbringen möchten."
+  },
+  "meta": {
+    "title": "Trainer werden bei Kodschul - Experten für IT, KI & Digitale Transformation",
+    "description": "Entdecke Karrierechancen bei Kodschul. Wir machen IT-Seminare, KI und Digitale Transformation zugänglich und spannend. Werde Teil eines dynamischen Teams und gestalte die Zukunft der technischen Weiterbildung mit.",
+    "keywords": "IT-Jobs, KI-Karrieren, Jobs in der digitalen Transformation, Karriere in der technischen Ausbildung, Kodschul-Team, Experten-Trainer",
+    "image": "/assets/images/kodschul-jobs.png"
+  },
+
+  "trainer": {
+    "become-a-trainer": "IT-Trainer/in bei Kodschul werden",
+    "description": "Bei Kodschul bieten wir erstklassige Seminare in IT, KI und digitaler Transformation an. Unser Ziel ist es, komplexe Themen durch praxisnahe Lernerfahrungen zugänglich und spannend zu machen.\n\nWir suchen derzeit talentierte Entwickler:innen, die leidenschaftlich ihr Wissen und ihre Expertise weitergeben möchten. Wenn du eine Leidenschaft für das Lehren hast und Teil unserer Community werden willst, freuen wir uns auf deine Nachricht!\n\nUm unserem Team von Expert:innen beizutreten, kontaktiere uns bitte direkt. Wende dich an Elisa für weitere Informationen und um zu besprechen, wie du Teil unseres dynamischen und unterstützenden Netzwerks werden kannst.\n\nWir freuen uns auf deine Bewerbung und darauf, dich bei Kodschul willkommen zu heißen!"
+  },
+
+  "offer": {
+    "title": "Warum Kodschul?",
+    "list": [
+      "Hochwertige, praxisnahe Seminare in IT, KI und digitaler Transformation.",
+      "Möglichkeiten, mit einem vielfältigen Team von Experten und Branchenprofis zu arbeiten.",
+      "Zugang zu einer unterstützenden Community, die berufliches Wachstum und Zusammenarbeit fördert.",
+      "Flexible Zeitpläne, die sich nach deiner Verfügbarkeit und Expertise richten.",
+      "Wettbewerbsfähige Vergütung für deine Zeit und dein Wissen.",
+      "Eine Plattform, um deine Fähigkeiten zu präsentieren und einen bedeutenden Einfluss in der Tech-Community zu haben."
+    ]
+  },
+  "expect": {
+    "title": "Das bringst du mit!",
+    "list": [
+      "Nachgewiesene Expertise in IT, KI oder digitaler Transformation mit praktischer Erfahrung.",
+      "Starke Kommunikationsfähigkeiten und die Fähigkeit, komplexe Konzepte klar zu vermitteln.",
+      "Leidenschaft für das Lehren und das Helfen von Lernenden auf ihrem Weg zum Erfolg.",
+      "Engagement für die Aktualisierung deines Wissens in deinem Bereich.",
+      "Zuverlässigkeit und Pünktlichkeit bei der Durchführung hochwertiger Seminare.",
+      "Bereitschaft, sich mit unserer Community zu engagieren und zu einer kollaborativen Umgebung beizutragen."
+    ]
+  },
+
+  "apply-now": "Jetzt Bewerben",
+
+  "training-process": {
+    "title": "So beginnst du bei uns!",
+    "description": "Wir suchen praxisnahe Trainer, die ihr Wissen mit Leidenschaft weitergeben möchten. In nur drei Schritten wirst du Teil unseres Netzwerks – flexibel, transparent und mit voller Unterstützung durch unser Team.",
+    "steps": {
+      "first": {
+        "title": "1. Kontaktiere uns",
+        "description": "Melde dich ganz unkompliziert bei uns – per E-Mail, Telefon oder LinkedIn. Erzähl uns kurz, wer du bist, welche Themen du unterrichten möchtest und wo deine Stärken liegen. Wir freuen uns immer über neue Trainer aus der Praxis."
+      },
+      "second": {
+        "title": "2. Kennenlernen",
+        "description": "In einem persönlichen Gespräch lernen wir uns kennen. Wir besprechen deine bisherigen Erfahrungen, mögliche Seminarthemen und wie dein Wissen optimal in unser Programm passt. Du erhältst alle Infos zu unseren Abläufen, Formaten und der Zusammenarbeit."
+      },
+      "third": {
+        "title": "3. Start deiner ersten Schulung",
+        "description": "Nach der erfolgreichen Abstimmung planen wir gemeinsam deine erste Schulung. Unser Team unterstützt dich bei der Vorbereitung, Organisation und Durchführung. Du wirst Teil eines engagierten Netzwerks und kannst dich voll auf das konzentrieren, was du am besten kannst: Wissen praxisnah weitergeben."
+      }
+    }
+  }
+}

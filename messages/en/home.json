@@ -1,0 +1,122 @@
+{
+  "hero": {
+    "heading": "Master IT & AI with Us",
+    "caption": "Connect with industry leaders and elevate your team's skills through expert-led IT training. Available online, onsite, or at your location!",
+    "cta": "Get started",
+    "title": "Increase productivity with our hands-on IT seminars & AI training courses",
+    "highlight": "IT & AI",
+    "subtitle": "Practice-oriented training to master IT & AI - whether beginner or advanced, we accompany you on your path to success!",
+    "find-training": "Find your Training",
+    "free-consultation": "Free Consultation",
+    "pro-tutors": "Professional Tutors",
+    "beginner-level": "Beginner Level",
+    "advanced-level": "Advanced Level",
+    "stats": "1000+ students, 100+ courses"
+  },
+  "courses": {
+    "heading": "Unlock Your Potential",
+    "title": "Explore Over",
+    "title-highlighted": "100+ Digital Courses",
+    "caption": "Master cutting-edge technologies with our 50+ IT courses. Whether beginner or expert, our tailored training equips you with the skills to lead in tech innovation.",
+    "cta": "View All Courses",
+    "tag": "Learn from Experts",
+    "title-description": "Experienced trainers, more than 10 years in the industry, more than 300 projects and more than 1000 participants",
+    "description": "Kodschul is a team of experienced trainers with practical experience in technology. In just two years, we have trained over 400 developers, doctors, professors, lawyers and more. Our training combines hands-on expertise with deep industry knowledge for effective learning.",
+    "more-info-cta": "Learn more",
+    "stats": {
+      "years": "Years of Experience",
+      "projects": "Completed Projects",
+      "participants": "Participants"
+    },
+    "cards-section": {
+      "title": "Tailored Education",
+      "subtitle": "Precise training for businesses, students, and individual requests.",
+      "cards": {
+        "business": {
+          "title": "For Businesses",
+          "description": "Every business is different, which is why we offer training that is individually tailored to your needs to achieve maximum value and high effectiveness."
+        },
+        "students": {
+          "title": "For Students", 
+          "description": "100% hands-on 'Learn by Doing' guidance from experts, including practice-oriented exercises, certificates and a network for working students."
+        },
+        "individual": {
+          "title": "Individual Training",
+          "description": "Customized training concepts, tailored to your individual requirements"
+        }
+      }
+    }
+  },
+  "testimonials": {
+    "tag": "Our Client Testimonials",
+    "title": "Words of Appreciation",
+    "testimonial1": {
+      "text": "Kodschul's training programs have provided immense value to our students. The hands-on workshops in web development and AI perfectly complemented our curriculum and gave students valuable insights into current industry standards.",
+      "author": "Hochschule Fulda",
+      "position": "Head of IT Faculty"
+    },
+    "testimonial2": {
+      "text": "The customized courses for our research department exceeded our expectations. Kodschul's instructors effectively communicated complex data science concepts and empowered our staff to implement AI-driven research methodologies.",
+      "author": "Universität Hohenheim",
+      "position": "Research Director"
+    },
+    "testimonial3": {
+      "text": "Through Kodschul's cloud computing training, we successfully modernized our IT infrastructure. The practice-oriented training and personalized support helped our developers implement new technologies quickly and efficiently.",
+      "author": "LVM Insurance",
+      "position": "IT Director"
+    },
+    "testimonial4": {
+      "text": "Kodschul's cybersecurity workshops elevated our security awareness to a new level. The trainers effectively communicated complex security concepts in a practical manner and helped us develop robust protection measures for our digital infrastructure.",
+      "author": "Bundeswehr",
+      "position": "Head of Cyber Security"
+    },
+    "testimonial5": {
+      "text": "The Industry 4.0 and IoT training programs have revolutionized our production processes. Kodschul successfully combined technical expertise with practical application, resulting in measurable efficiency improvements in our manufacturing lines.",
+      "author": "Mercedes Benz",
+      "position": "Head of Digital Transformation"
+    },
+    "testimonial6": {
+      "text": "The data analysis and process automation training significantly optimized our operational procedures. Kodschul's experts developed tailored solutions perfectly adapted to our specific requirements in the transportation sector.",
+      "author": "DB Bahn",
+      "position": "Director of Digitalization"
+    },
+    "testimonial7": {
+      "text": "Kodschul's DevOps training transformed our development processes. The practical workshops helped our teams implement modern CI/CD pipelines and improve collaboration between development and operations.",
+      "author": "T-Systems",
+      "position": "Head of Software Development"
+    },
+    "testimonial8": {
+      "text": "Kodschul's AI training significantly improved our digital administrative processes. The trainers explained complex technologies in an understandable way and helped us develop innovative solutions for public administration.",
+      "author": "Bavaria",
+      "position": "Head of Digital Administration"
+    }
+  },
+  "successStories": {
+    "tag": "TOGETHER TO THE GOAL!",
+    "title": "Success Story",
+    "description": "At Kodschul.com, we offer high-quality training that truly makes a difference. With over 100 completed training sessions – from lectures with 70+ participants to hands-on training with 2-3 participants – we have successfully advanced numerous participants.",
+    "viewAllSeminars": "View all available seminars",
+    "stories": [
+      {
+        "title": "ESE Kongress",
+        "category": "IOT & EMBEDDED SOFTWARE ENGINEERING",
+        "description": "Beim Embedded Systems Kongress hielten wir einen 6-stündigen Vortrag über Rust als Alternative zu C++ in Embedded Systems. Vor 70+ Experten großer Unternehmen wie E+H, Festo und weiteren in Sindelfingen präsentierten wir die Vorteile von Rust in der Embedded-Entwicklung."
+      },
+      {
+        "title": "Polizei BW - Kubernetes",
+        "category": "CLOUD COMPUTING",
+        "description": "Für die Polizei BW haben wir eine Schulung zu Kubernetes durchgeführt, wie Kubernetes eingesetzt werden kann, um die Verfügbarkeit der Anwendungen sicherzustellen und wie Containertechnologien effektiv genutzt werden."
+      },
+      {
+        "title": "KI für Produktentwickler - Neutrik",
+        "category": "KI Schulung",
+        "description": "Neutrik Group ist ein großer Hersteller  von Steckverbinder für Veranstaltungstechnik. Im Zuge der Innovation haben wir gemeinsam mit ChatGPT untersucht, wie wir KI einsetzen können, um neue Produkte zu entwickeln und die Produktion zu optimieren."
+      },
+      {
+        "title": "Bundesrechnenzentrum Österreich - React.js - Wien",
+        "category": "WeB Entwicklung",
+        "description": "React.js verändert das Frontend, weshalb wir beim Bundesrechenzentrum diese State-of-the-Art-Web-Technologie geschult haben, um zu zeigen, wie sie helfen kann, die Plattform der Behörde effizienter und benutzerfreundlicher zu gestalten."
+      }
+    ]
+  }
+}

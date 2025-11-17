@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "title": "Kontaktieren Sie uns"
+  },
+  "meta": {
+    "title": "Kontaktieren Sie uns | Kodschul IT- & AI-Seminare",
+    "description": "Kontaktieren Sie Kodschul für IT-Seminare und AI-Training, die von Experten geleitet werden. Wir sind hier, um bei Anfragen zur digitalen Transformation und maßgeschneiderten Lernlösungen zu unterstützen.",
+    "keywords": "Kontaktieren Sie Kodschul, IT-Seminare, AI-Training, digitale Transformation, Experten-Trainer, maßgeschneiderte Lernlösungen, Tech-Workshops",
+    "image": "/assets/images/kodschul-hero2.png"
+  },
+  "cards": {
+    "number": "Kontakttelefonnummer",
+    "email": "Unsere E-Mail-Adresse",
+    "location": "Unser Standort"
+  },
+
+  "form": {
+    "title": "Eine Nachricht senden",
+    "fields": {
+      "first-name": "Vorname",
+      "last-name": "Nachname",
+      "email": "E-Mail",
+      "message": "Nachricht",
+      "submit": "Absenden"
+    }
+  }
+}

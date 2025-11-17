@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "title": "Unsere Kunden",
+    "subtitle": "Über 1000 Teilnehmer Haben Unsere Kurse Bei Den Folgenden Großen Unternehmen Und Institutionen Abgeschlossen",
+    "button": "Individuelle Beratung"
+  },
+  "companies_section": {
+    "title": "Über 250 Unternehmen, Behörden, Üniverstitäten und Bildungseinrichtungen setzen auf Kodschul.",
+    "subtitle_companies": "Unternehmen: von Industrie bis hin zu Banken",
+    "description_companies": "Wir arbeiten mit Unternehmen aus verschiedensten Branchen dabei, ihre Teams zukunftsfähiger aufzustellen - mit modernen KI-Seminars & IT-Schulungen und maßgeschneiderten Lösungen.",
+    "subtitle_authorities": "Behörden & Institutionen Weltweit",
+    "description_authorities": "Wir arbeiten mit öffentlichen Einrichtungen und Institutionen zusammen, um digitale Kompetenz aufzubauen, moderne Technologien zu vermitteln und nachhaltige Weiterbildung zu fördern."
+  },
+  "meta": {
+    "title": "Unsere Kunden & Referenzen | Kodschul",
+    "description": "Entdecken Sie unsere Erfolgsgeschichten und Referenzen. Erfahren Sie, wie wir Unternehmen und Einzelpersonen dabei helfen, ihre IT-Ziele zu erreichen.",
+    "keywords": "Kundenreferenzen, IT-Seminare, digitale Transformation, Kodschul, Erfolgsgeschichten, Kundenfeedback",
+    "image": "/assets/images/kodschul-references.png"
+  },
+  "trusted-by": {
+    "title": "Vertraut von führenden globalen Unternehmen & Top-Institutionen!"
+  },
+  "client_showcase": {
+    "title": "Gemeinsam mit den Top 20 Schulungsanbietern im DACH-Raum gestalten wir praxisnahe Weiterbildung auf höchstem Niveau."
+  },
+  "ai_call_to_action": {
+    "title": "KI & IT verändern gerade die Welt",
+    "subtitle": "Seien Sie an vorderster Front dabei! Sammeln Sie Fachwissen und praktische Erfahrung und sichern Sie sich noch heute Ihre digitale Zukunft!",
+    "cta_button": "Jetzt anfragen"
+  },
+  "metrics": {
+    "title": "Ergebnisse & Wirkung!",
+    "subtitle": "Unsere Trainings schaffen echten Mehrwert für Fachkräfte, Studierende und Organisationen gleichermaßen.",
+    "description": "Durch moderne Lernformate und individuelle Betreuung erzielen wir langfristige Lernerfolge. Unser praxisnaher Ansatz und kompetente Trainer stellen sicher, dass Teilnehmer ihre neuen Fähigkeiten sofort in realen Szenarien anwenden können.",
+    "metric_1": {
+      "value": "1.500+",
+      "label": "Teilnehmende aus Unternehmen, Behörden & Hochschulen geschult"
+    },
+    "metric_2": {
+      "value": "100+",
+      "label": "Firmenkunden - vom Mittelstand bis zur öffentlichen Verwaltung"
+    },
+    "metric_3": {
+      "value": "250+",
+      "label": "Schulungstage pro Jahr - online, vor Ort & hybrid"
+    },
+    "metric_4": {
+      "value": "97%",
+      "label": "Weiterempfehlungsrate laut Teilnehmer-Feedback"
+    },
+    "metric_5": {
+      "value": "77%",
+      "label": "der Studenten verbessern nachweislich Studium oder Berufseinstieg"
+    }
+  },
+  "success-stories": {
+    "tag": "GEMEINSAM ZUM ZIEL!",
+    "title": "Erfolgsgeschichte",
+    "view-all": "Alle verfügbaren Seminare anzeigen",
+    "read-more": "Mehr erfahren",
+    "stories": {
+      "fulda": {
+        "title": "Hochschule Fulda",
+        "description": "Hochschule Fulda ist eine berufliche Hochschule in Fulda, Germany. Sie bietet eine breite Palette an Studiengangen, die die Wissenschaft und Technologie vermitteln.",
+        "date": "November 12, 2024"
+      },
+      "emag": {
+        "title": "EMAG GmbH & Co. KG",
+        "description": "EMAG ist ein führender Hersteller von Werkzeugmaschinen für die Metallbearbeitung. Das Unternehmen setzt auf innovative Technologien und digitale Lösungen für die Produktion.",
+        "date": "Oktober 15, 2024"
+      },
+      "lvm": {
+        "title": "LVM Versicherung Gruppe",
+        "description": "Die LVM Versicherung ist eine prominente Versicherungsgruppe in Deutschland, die für ihre Innovations- und Effizienzbemühungen bekannt ist. Sie verwalten ein weitreichendes Netzwerk von über 2000 Anwendungsinstanzen in ihren Betrieben.",
+        "date": "September 28, 2024"
+      }
+    }
+  }
+}
