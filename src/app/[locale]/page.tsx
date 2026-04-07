@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
-import { ArrowDown, MapPin, Sparkles, Lightbulb, Users, Code, BrainCircuit, Target, Award, ExternalLink } from 'lucide-react'
+import { ArrowDown, MapPin, Lightbulb, Users, Code, BrainCircuit, Target, Award, ExternalLink } from 'lucide-react'
 
 // ...
 // Hero Section content up to Scroll Down SVG
@@ -22,7 +22,7 @@ const HomePage = () => {
           
           <div className="flex items-center gap-4 text-primary text-sm sm:text-base font-mono font-semibold tracking-[0.2em] uppercase">
             <div className="w-12 h-[2px] bg-primary"></div>
-            <span>Hello, I'm</span>
+            <span>Hello, I&apos;m</span>
           </div>
           
           <h1 className="font-heading text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight text-foreground leading-[1.1]">
@@ -364,7 +364,7 @@ const HomePage = () => {
               <div className="flex gap-1 text-primary mb-6">
                 {[...Array(5)].map((_, star) => <svg key={star} className="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>)}
               </div>
-              <p className="font-body text-muted-foreground italic text-lg leading-relaxed mb-8 grow">"{review.text}"</p>
+              <p className="font-body text-muted-foreground italic text-lg leading-relaxed mb-8 grow">&quot;{review.text}&quot;</p>
               <div className="flex items-center gap-4 mt-auto">
                 <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center text-primary font-bold">{review.name.charAt(0)}</div>
                 <div>
