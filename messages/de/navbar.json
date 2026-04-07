@@ -6,6 +6,7 @@
   "articles": "Artikel",
   "education": "Bildung",
   "projects": "Projekte",
+  "contact": "Lass uns reden",
     "locale-switcher": {
       "locale": "{locale, select, de {Deutsch} en {Englisch} other {Unbekannt}}"
     }

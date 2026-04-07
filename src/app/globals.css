@@ -1,5 +1,4 @@
 @import "tailwindcss";
-@import "tailwindcss/preflight";
 @import "tailwindcss/utilities";
 @import "tw-animate-css";
 
@@ -13,7 +12,7 @@
     --secondary: #bd8c47;
     --accent: #d4be16;
 
-    /* Base UI Elements (Fallback for UI components) */
+    /* Base UI Elements */
     --foreground: var(--text);
     --card: var(--background);
     --card-foreground: var(--text);
@@ -35,11 +34,11 @@
     --secondary: #b88742;
     --accent: #e9d32b;
 
-    /* Base UI Elements (Fallback for UI components) */
+    /* Base UI Elements */
     --foreground: var(--text);
     --card: var(--background);
     --card-foreground: var(--text);
-    --popover: #110836; /* Slightly lighter than dark background */
+    --popover: #110836;
     --popover-foreground: var(--text);
     --muted: #374151;
     --muted-foreground: #9ca3af;
@@ -48,12 +47,32 @@
     --input: #1f2937;
     --ring: var(--primary);
   }
+
+  /* ────────────────────────────────────────────── */
+  /* Fixed Base Layer - No more aggressive padding reset */
+  /* ────────────────────────────────────────────── */
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+    /* We DO NOT set padding: 0 or margin: 0 globally */
+  }
+
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  body {
+    margin: 0;
+    background-color: var(--background);
+    color: var(--text);
+  }
 }
 
 @theme inline {
   /* Typography Configuration */
-  --font-heading: var(--font-acme), "Acme", sans-serif;/* here is for my main header*/
-  --font-body: var(--font-sora), "Sora", sans-serif;/* here is for my main body*/
+  --font-heading: var(--font-acme), "Acme", sans-serif;
+  --font-body: var(--font-sora), "Sora", sans-serif;
 
   --text-sm: 0.707rem;
   --text-base: 1rem;
@@ -88,14 +107,4 @@
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
   --radius-xl: calc(var(--radius) + 4px);
-}
-
-@layer base {
-  * {
-    @apply border-border outline-ring/50;
-  }
-  body {
-    background-color: var(--background);
-    color: var(--text);
-  }
 }

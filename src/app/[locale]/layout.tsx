@@ -18,14 +18,14 @@ export default async function LocaleLayout({ children, params }: LocaleLayoutPro
     <ThemeProvider attribute="class" defaultTheme="system" enableSystem>   
 
     <NextIntlClientProvider key={locale} locale={locale} messages={messages}>
-      <div className="flex flex-1 flex-col overflow-hidden items-center w-full">
+      <div className="flex flex-1 flex-col overflow-x-hidden items-center w-full">
         <Navbar />
-        <div className="grow w-full max-w-6xl mt-24 mb-0 flex flex-col bg-white/40 dark:bg-white/5 backdrop-blur-xl shadow-lg shadow-black/5 dark:shadow-black/20 border-x border-t border-black/5 dark:border-white/10 ">
+        <div className="grow w-full max-w-6xl mt-32 mb-10 flex flex-col bg-white/40 dark:bg-white/5 backdrop-blur-xl shadow-lg shadow-black/5 dark:shadow-black/20 border border-black/5 dark:border-white/10 rounded-[3rem] overflow-hidden">
           <main className="grow px-4 md:px-8 py-8 w-full">
             {children}
           </main>
-          <Footer />
         </div>
+        <Footer />
       </div>
     </NextIntlClientProvider>
     </ThemeProvider>
