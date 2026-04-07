@@ -15,10 +15,14 @@ const HomePage = () => {
       <div className="flex flex-col-reverse lg:flex-row items-center justify-between gap-12 lg:gap-8 pt-6 lg:pt-16">
         
         {/* Left Column: Text & Content */}
-        <div className="flex flex-col items-start text-left w-full lg:w-[55%] space-y-6">
-          <div className="flex items-center gap-2 px-4 py-2 rounded-full border border-primary/20 bg-primary/5 text-primary text-sm font-semibold tracking-wide w-fit">
-            <Sparkles className="w-4 h-4" />
-            <span>Hello I am</span>
+        <div className="flex flex-col items-start text-left w-full lg:w-[55%] space-y-6 relative">
+          
+          {/* Subtle glow behind the text content */}
+          <div className="absolute top-[20%] -left-[10%] w-[500px] h-[500px] bg-primary/10 blur-[140px] rounded-full pointer-events-none -z-10"></div>
+          
+          <div className="flex items-center gap-4 text-primary text-sm sm:text-base font-mono font-semibold tracking-[0.2em] uppercase">
+            <div className="w-12 h-[2px] bg-primary"></div>
+            <span>Hello, I'm</span>
           </div>
           
           <h1 className="font-heading text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight text-foreground leading-[1.1]">
@@ -67,8 +71,12 @@ const HomePage = () => {
 
         {/* Right Column: Image */}
         <div className="w-full lg:w-[40%] flex justify-center lg:justify-end relative mb-12 lg:mb-0">
-          <div className="relative w-full max-w-[420px] lg:max-w-full h-[500px] md:h-[600px] lg:h-[680px] rounded-[3rem] overflow-hidden border border-border/40 shadow-2xl group">
-            {/* Glow effect behind image */}
+          
+          {/* Central glow between text and image - Pulsing Bulb Effect */}
+          <div className="absolute top-1/2 -left-[20%] -translate-y-1/2 w-[350px] h-[350px] bg-primary/40 blur-[100px] animate-pulse rounded-full pointer-events-none hidden lg:block -z-10"></div>
+          
+          <div className="relative w-full max-w-[420px] lg:max-w-full h-[500px] md:h-[600px] lg:h-[680px] rounded-[3rem] overflow-hidden border border-primary/20 shadow-[0_0_60px_-15px] shadow-primary/30 group hover:shadow-[0_0_80px_-15px] hover:shadow-primary/50 transition-all duration-500">
+            {/* Glow effect inside image bounds */}
             <div className="absolute inset-0 bg-primary/10 blur-[80px] -z-10 group-hover:bg-primary/20 transition-colors duration-500"></div>
             
             <Image 
